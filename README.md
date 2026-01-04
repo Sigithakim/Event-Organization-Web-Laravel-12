@@ -10,3 +10,6 @@ dengan fitur CRUD dan filter acara berdasarkan bulan pelaksanaan.
 Antarmuka aplikasi dirancang menggunakan konsep Dark Modern UI dengan pendekatan glassmorphism 
 untuk memberikan pengalaman pengguna yang nyaman, modern, dan profesional. 
 Sistem ini cocok digunakan sebagai studi kasus pengembangan web, tugas perkuliahan, maupun portofolio.
+
+Mohon maaf karena kita kesusahan untuk upload ke GitHub kita coba alternatif lain di Drive, untuk akses link di bawah ini:
+Link : https://drive.google.com/file/d/1TDuEbgo9lU2rIAHEuUlkFXvcMaclpld8/view?usp=sharing
